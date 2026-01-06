@@ -6,4 +6,3 @@ dist/
 .env.local
 package-lock.json
 yarn.lock
-MARKDOWN_FEATURES.md
